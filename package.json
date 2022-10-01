@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-dibend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/eslint-config-dibend.git"
+  },
+  "keywords": [],
+  "author": "David DiBenedetto <david@njweb.solutions> (https://njweb.solutions/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/eslint-config-dibend/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/eslint-config-dibend#readme",
+  "devDependencies": {
+    "@eslint/create-config": "^0.3.1",
+    "eslint": "^8.24.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
